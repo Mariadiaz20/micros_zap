@@ -1,0 +1,8 @@
+FastAPI
+uvicorn[standard]
+pydantic[email]
+sqlalchemy
+alembic
+python-dotenv
+pytest
+httpx
